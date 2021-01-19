@@ -1,0 +1,21 @@
+This project has 3 parts
+
+1) Creating tasks
+
+You create a custom task which includes name, startDate, EndDate, Description, Email, and Severity
+
+The program then takes you to the display page where all of the users tasks are laid out for them
+
+the display page has 3 buttons, create, edit, delete
+
+2) Edit tasks
+
+The user inputs the id of the task they want to change along with the new values for the task
+
+the task is now updated and the program takes you to the display page again
+
+3) Delete tasks
+
+The user inputs the id of the task they want to delete and the task is deleted
+
+The task is then deleted and the user is brought back to the display page 
